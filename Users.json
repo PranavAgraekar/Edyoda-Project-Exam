@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Sam Drake",
+        "phone": "8760091554",
+        "email": "Sam@gmail.com",
+        "password": "6656",
+        "cart": {
+            "07-03-2022": [
+                "PS5 Controller",
+                1
+            ]
+        },
+        "wishlist": {
+            "07-03-2022": [
+                "Uncharted 4",
+                2
+            ]
+        },
+        "order_history": {
+            "07-03-2022": [
+                "Uncharted 4 disks",
+                1,
+                2250
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "name": "Peter Parker",
+        "phone": "743294783",
+        "email": "peter@gmail.com",
+        "password": "7786",
+        "cart": {},
+        "wishlist": {},
+        "order_history": {}
+    }
+]
